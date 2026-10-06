@@ -1,3 +1,10 @@
+<img width="259" height="101" alt="image" src="https://github.com/user-attachments/assets/85f47684-bad1-42eb-b478-a9edecb2067e" />
+
+
+> **Project of the Master in AI Development — Module “Python Programming”**  
+> Student: Michele Assirelli
+
+
 # BioMarket — Inventory & Sales Management CLI
 
 A simple command-line inventory management system built in Python for **BioMarket s.a.s.**, a vegan products store. The program lets users manage stock, register sales, and track gross/net profit, with all data persisted to CSV files between sessions.
